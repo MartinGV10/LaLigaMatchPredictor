@@ -1,0 +1,121 @@
+,actual,prediction,date,Team,Opponent,Result,new_team
+10,1,0,2024-03-10,Alavés,Rayo Vallecano,W,Alavés
+11,0,0,2024-03-31,Alavés,Real Sociedad,L,Alavés
+12,1,0,2024-04-21,Alavés,Atlético Madrid,W,Alavés
+13,1,0,2024-04-27,Alavés,Celta Vigo,W,Alavés
+14,0,0,2024-05-10,Alavés,Girona,D,Alavés
+15,1,0,2024-05-18,Alavés,Getafe,W,Alavés
+26,0,0,2024-03-11,Almería,Sevilla,D,Almería
+27,0,0,2024-03-30,Almería,Osasuna,L,Almería
+28,0,0,2024-04-21,Almería,Villarreal,L,Almería
+29,0,0,2024-04-27,Almería,Getafe,L,Almería
+30,0,0,2024-05-16,Almería,Barcelona,L,Almería
+31,1,1,2024-05-25,Almería,Cádiz,W,Almería
+42,0,0,2024-03-03,Athletic Club,Barcelona,D,Athletic Club
+43,1,0,2024-03-16,Athletic Club,Alavés,W,Athletic Club
+44,0,0,2024-04-14,Athletic Club,Villarreal,D,Athletic Club
+45,0,0,2024-04-19,Athletic Club,Granada,D,Athletic Club
+46,0,0,2024-05-11,Athletic Club,Osasuna,D,Athletic Club
+47,1,0,2024-05-19,Athletic Club,Sevilla,W,Athletic Club
+58,0,1,2024-03-03,Atlético Madrid,Betis,L,Atlético Madrid
+59,0,0,2024-03-17,Atlético Madrid,Barcelona,L,Atlético Madrid
+60,1,0,2024-04-13,Atlético Madrid,Girona,W,Atlético Madrid
+61,1,0,2024-04-27,Atlético Madrid,Athletic Club,W,Atlético Madrid
+62,1,0,2024-05-12,Atlético Madrid,Celta Vigo,W,Atlético Madrid
+63,0,0,2024-05-19,Atlético Madrid,Osasuna,L,Atlético Madrid
+75,1,1,2024-03-08,Barcelona,Mallorca,W,Barcelona
+76,1,1,2024-03-30,Barcelona,Las Palmas,W,Barcelona
+77,1,0,2024-04-29,Barcelona,Valencia,W,Barcelona
+78,1,1,2024-05-13,Barcelona,Real Sociedad,W,Barcelona
+79,1,0,2024-05-19,Barcelona,Rayo Vallecano,W,Barcelona
+91,0,0,2024-03-10,Betis,Villarreal,L,Betis
+92,0,0,2024-04-12,Betis,Celta Vigo,L,Betis
+93,0,0,2024-04-28,Betis,Sevilla,D,Betis
+94,1,0,2024-05-12,Betis,Almería,W,Betis
+95,0,0,2024-05-19,Betis,Real Sociedad,L,Betis
+107,0,0,2024-03-31,Celta Vigo,Rayo Vallecano,D,Celta Vigo
+108,1,1,2024-04-20,Celta Vigo,Las Palmas,W,Celta Vigo
+109,1,1,2024-05-05,Celta Vigo,Villarreal,W,Celta Vigo
+110,0,0,2024-05-15,Celta Vigo,Athletic Club,L,Celta Vigo
+111,0,0,2024-05-26,Celta Vigo,Valencia,D,Celta Vigo
+122,1,0,2024-03-09,Cádiz,Atlético Madrid,W,Cádiz
+123,1,1,2024-03-29,Cádiz,Granada,W,Cádiz
+124,0,0,2024-04-13,Cádiz,Barcelona,L,Cádiz
+125,0,0,2024-04-28,Cádiz,Mallorca,D,Cádiz
+126,1,0,2024-05-12,Cádiz,Getafe,W,Cádiz
+127,0,0,2024-05-19,Cádiz,Las Palmas,D,Cádiz
+137,0,0,2024-03-02,Getafe,Las Palmas,D,Getafe
+138,1,0,2024-03-16,Getafe,Girona,W,Getafe
+139,0,0,2024-03-30,Getafe,Sevilla,L,Getafe
+140,0,0,2024-04-21,Getafe,Real Sociedad,D,Getafe
+141,0,1,2024-05-03,Getafe,Athletic Club,L,Getafe
+142,0,0,2024-05-15,Getafe,Atlético Madrid,L,Getafe
+143,0,0,2024-05-26,Getafe,Mallorca,L,Getafe
+154,1,1,2024-03-09,Girona,Osasuna,W,Girona
+155,1,1,2024-03-31,Girona,Betis,W,Girona
+156,1,1,2024-04-20,Girona,Cádiz,W,Girona
+157,1,0,2024-05-04,Girona,Barcelona,W,Girona
+158,0,1,2024-05-14,Girona,Villarreal,L,Girona
+159,1,1,2024-05-24,Girona,Granada,W,Girona
+170,0,0,2024-03-09,Granada,Real Sociedad,L,Granada
+171,0,0,2024-04-04,Granada,Valencia,L,Granada
+172,1,0,2024-04-14,Granada,Alavés,W,Granada
+173,1,1,2024-04-28,Granada,Osasuna,W,Granada
+174,0,0,2024-05-11,Granada,Real Madrid,L,Granada
+175,0,0,2024-05-19,Granada,Celta Vigo,L,Granada
+186,0,0,2024-03-10,Las Palmas,Athletic Club,L,Las Palmas
+187,0,0,2024-03-17,Las Palmas,Almería,L,Las Palmas
+188,0,0,2024-04-14,Las Palmas,Sevilla,L,Las Palmas
+189,0,0,2024-04-27,Las Palmas,Girona,L,Las Palmas
+190,0,0,2024-05-16,Las Palmas,Betis,D,Las Palmas
+191,0,0,2024-05-26,Las Palmas,Alavés,D,Las Palmas
+202,1,0,2024-03-03,Mallorca,Girona,W,Mallorca
+203,1,0,2024-03-16,Mallorca,Granada,W,Mallorca
+204,0,0,2024-04-13,Mallorca,Real Madrid,L,Mallorca
+205,0,0,2024-05-04,Mallorca,Atlético Madrid,L,Mallorca
+206,1,0,2024-05-11,Mallorca,Las Palmas,W,Mallorca
+207,0,0,2024-05-19,Mallorca,Almería,D,Mallorca
+218,1,0,2024-03-04,Osasuna,Alavés,W,Osasuna
+219,0,0,2024-03-16,Osasuna,Real Madrid,L,Osasuna
+220,0,1,2024-04-15,Osasuna,Valencia,L,Osasuna
+221,0,0,2024-05-05,Osasuna,Betis,L,Osasuna
+222,0,0,2024-05-14,Osasuna,Mallorca,D,Osasuna
+223,0,0,2024-05-25,Osasuna,Villarreal,D,Osasuna
+233,0,0,2024-03-02,Rayo Vallecano,Cádiz,D,Rayo Vallecano
+234,1,0,2024-03-17,Rayo Vallecano,Betis,W,Rayo Vallecano
+235,0,0,2024-04-13,Rayo Vallecano,Getafe,D,Rayo Vallecano
+236,0,0,2024-04-20,Rayo Vallecano,Osasuna,L,Rayo Vallecano
+237,0,0,2024-05-05,Rayo Vallecano,Almería,L,Rayo Vallecano
+238,0,0,2024-05-15,Rayo Vallecano,Granada,L,Rayo Vallecano
+239,0,0,2024-05-25,Rayo Vallecano,Athletic Club,L,Rayo Vallecano
+250,1,1,2024-03-10,Real Madrid,Celta Vigo,W,Real Madrid
+251,1,1,2024-03-31,Real Madrid,Athletic Club,W,Real Madrid
+252,1,0,2024-04-21,Real Madrid,Barcelona,W,Real Madrid
+253,1,1,2024-05-04,Real Madrid,Cádiz,W,Real Madrid
+254,1,1,2024-05-14,Real Madrid,Alavés,W,Real Madrid
+255,0,1,2024-05-25,Real Madrid,Betis,D,Real Madrid
+266,1,1,2024-03-15,Real Sociedad,Cádiz,W,Real Sociedad
+267,0,0,2024-04-14,Real Sociedad,Almería,D,Real Sociedad
+268,0,0,2024-04-26,Real Sociedad,Real Madrid,L,Real Sociedad
+269,1,0,2024-05-04,Real Sociedad,Las Palmas,W,Real Sociedad
+270,1,0,2024-05-16,Real Sociedad,Valencia,W,Real Sociedad
+271,0,0,2024-05-25,Real Sociedad,Atlético Madrid,L,Real Sociedad
+282,1,0,2024-03-02,Sevilla,Real Sociedad,W,Sevilla
+283,0,0,2024-03-17,Sevilla,Celta Vigo,L,Sevilla
+284,0,0,2024-04-22,Sevilla,Mallorca,L,Sevilla
+285,1,0,2024-05-05,Sevilla,Granada,W,Sevilla
+286,0,0,2024-05-15,Sevilla,Cádiz,L,Sevilla
+287,0,0,2024-05-26,Sevilla,Barcelona,L,Sevilla
+297,0,0,2024-03-02,Valencia,Real Madrid,D,Valencia
+298,1,0,2024-03-09,Valencia,Getafe,W,Valencia
+299,0,0,2024-03-30,Valencia,Mallorca,D,Valencia
+300,0,0,2024-04-20,Valencia,Betis,L,Valencia
+301,0,0,2024-05-05,Valencia,Alavés,L,Valencia
+302,0,0,2024-05-12,Valencia,Rayo Vallecano,D,Valencia
+303,0,0,2024-05-19,Valencia,Girona,L,Valencia
+314,1,1,2024-03-03,Villarreal,Granada,W,Villarreal
+315,1,0,2024-03-17,Villarreal,Valencia,W,Villarreal
+316,0,0,2024-04-01,Villarreal,Atlético Madrid,L,Villarreal
+317,1,0,2024-04-28,Villarreal,Rayo Vallecano,W,Villarreal
+318,1,0,2024-05-11,Villarreal,Sevilla,W,Villarreal
+319,0,0,2024-05-19,Villarreal,Real Madrid,D,Villarreal
